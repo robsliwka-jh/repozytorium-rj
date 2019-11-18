@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "repozytoriumRj",
+    "packageName": "pl.com.ca.rrj",
+    "packageFolder": "pl/com/ca/rrj",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "pl",
+    "languages": [
+      "en",
+      "pl"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.0",
+    "jwtSecretKey": "MDViODBiYTEyNWNhOWE2NTIyMTYwNmJkNGViMWMzNWM3NDkzMDBhOGE5ZTg3NzdkMmI1MDI0ZTU4M2U0NGQyNmM3M2I1YzRkZTJiY2Q1ZmFjNjc0OTg3OTdiYTgyYmZjYzY2ZWE2Yjc0MmMzM2YyZTI2NjQ5MTFhZjBiZTY3OTc=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "robsliwka-jh",
+  "repository-name": "repozytorium-rj"
+}
